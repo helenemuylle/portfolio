@@ -1,0 +1,930 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.8.7",
+    "versionPublish": "3.12.1",
+    "name": "Hélène Muylle Engels",
+    "favicon": "",
+    "google-analytics": "<body>\r\n<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-78435499-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "theme": {},
+    "uniqCompNum": 0
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "header4-4",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0316-4896x3672-22.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Hélène Muylle",
+          "text": "GRAPHIC DESIGN",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article UL": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-3",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1461028-10202110740643587-1160626993-n-1-960x531-91.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "About",
+          "meta": "",
+          "text": "<p>Kortrijk</p><p>5th Of February</p><p>Diploma Free Visual Arts, VTI Kortrijk</p><p>helenemuylle95@gmail.com<br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons Licence\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">PHOTOGRAPHY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">GRAPHIC DESIGN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">DRAWINGS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">OTHER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://df882bcb3429ab5d326407c67a828f3359c5f79d.googledrive.com/secure/AKsY0eVc8nHWYdUsWMKRE9MH5EoxpT4gUGMe65u4ih0GyCcy2fcfD_YNVv5qjtMnHww2vmjVWQUePgXEu32CEyAKxojDiTyyAx6T_UqTwIDbnKU3ZKphVJeDqUlZZ2uDLfgfAWESAIPaYaf-yQtLyTShcx3r7OxIBIf2syOgEwadUOZgaTBt-Gy_x6I0Gn673d3IemBL5WLDwB-nM81bKdCs3pNkCGSZ1hjGR_v9MK9-vamiCvTa2XmK9oxqvrnNreaOL57rzSVRPHTk9vg3FRfcEfxzCt_Nk7O3mMH6u0qUhwH4_QsGFYukJx9gLlpfsr-Lr3_WEE-SYsy33-S2pHbwwjvCxvkHrzKFgtMmGu9fkSgI5t36goLuSki5lI1SZBpf29kyMOAY2LwEM9CNyTV_ABf9Xff64WNfn3zdztDCIgPdeanPV3YBZERB-nD-X2mfyYfBfthtmDZNt99eM_8oJWmV1VZdgqzIO2X5XGyz40eGdWlBVSxnSo2jk_Znavw7C8U_n5oW8vVmi7xRAjHK578LePXWTy3PJMgq0l2xYcL1XmjV5fuw5eZYEkR_Zl0P7y60EFo8b5vC4NHcSLV7Ay99K3Y7h5lHd-OjaQSxim-iOrM1E0Y=/host/0B-THWw7hibq5WDM3YjN5TGV1cW8/\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "header4-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0316-4896x3672-22.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Hélène Muylle",
+          "text": "GRAPHIC DESIGN<br>photography",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/circus-pipo-girl-851x563-83-851x563-29.png",
+                "image": "@PROJECT_PATH@/assets/images/circus-pipo-girl-851x563-83.png",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0140-3456x2304-5-2000x1333-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0140-3456x2304-5.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-3814-5184x3456-23-2000x1333-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3814-5184x3456-23.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0268-3456x2304-3-2000x1333-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0268-3456x2304-3.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0345-4000x6016-25-2000x3008-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0345-4000x6016-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1463743-10202110742883643-1958577576-n-431x960-99-431x960-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1463743-10202110742883643-1958577576-n-431x960-99.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0116-3456x2304-18-2000x1333-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0116-3456x2304-18.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscf4279-3216x4288-76-2000x2667-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf4279-3216x4288-76.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscf4278-4288x3216-50-2000x1500-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf4278-4288x3216-50.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0180-3672x4896-25-2000x2667-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0180-3672x4896-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn1033-4896x3672-54-2000x1500-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn1033-4896x3672-54.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0316-4896x3672-23-2000x1500-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0316-4896x3672-23.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0155-3672x4896-77-2000x2667-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0155-3672x4896-77.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0637-4896x3672-16-2000x1500-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0637-4896x3672-16.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0647-4896x3672-80-2000x1500-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0647-4896x3672-80.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0649-4896x3672-72-2000x1500-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0649-4896x3672-72.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn1414-4896x3672-70-2000x1500-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn1414-4896x3672-70.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn1926-3672x4896-42-2000x2667-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn1926-3672x4896-42.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn1622-4896x3672-86-2000x1500-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn1622-4896x3672-86.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn1937-3672x4896-14-2000x2667-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn1937-3672x4896-14.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/frozen-raindrop-2112x1584-40-2000x1500-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frozen-raindrop-2112x1584-40.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0033-3456x2304-71-2000x1333-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0033-3456x2304-71.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0024-2012-05-12-20-07-1180x786-31-1180x786-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0024-2012-05-12-20-07-1180x786-31.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/fotos-100-3456x2304-38-2000x1333-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotos-100-3456x2304-38.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-8",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">PHOTOGRAPHY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">GRAPHIC DESIGN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">DRAWINGS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">OTHER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://df882bcb3429ab5d326407c67a828f3359c5f79d.googledrive.com/secure/AKsY0eVc8nHWYdUsWMKRE9MH5EoxpT4gUGMe65u4ih0GyCcy2fcfD_YNVv5qjtMnHww2vmjVWQUePgXEu32CEyAKxojDiTyyAx6T_UqTwIDbnKU3ZKphVJeDqUlZZ2uDLfgfAWESAIPaYaf-yQtLyTShcx3r7OxIBIf2syOgEwadUOZgaTBt-Gy_x6I0Gn673d3IemBL5WLDwB-nM81bKdCs3pNkCGSZ1hjGR_v9MK9-vamiCvTa2XmK9oxqvrnNreaOL57rzSVRPHTk9vg3FRfcEfxzCt_Nk7O3mMH6u0qUhwH4_QsGFYukJx9gLlpfsr-Lr3_WEE-SYsy33-S2pHbwwjvCxvkHrzKFgtMmGu9fkSgI5t36goLuSki5lI1SZBpf29kyMOAY2LwEM9CNyTV_ABf9Xff64WNfn3zdztDCIgPdeanPV3YBZERB-nD-X2mfyYfBfthtmDZNt99eM_8oJWmV1VZdgqzIO2X5XGyz40eGdWlBVSxnSo2jk_Znavw7C8U_n5oW8vVmi7xRAjHK578LePXWTy3PJMgq0l2xYcL1XmjV5fuw5eZYEkR_Zl0P7y60EFo8b5vC4NHcSLV7Ay99K3Y7h5lHd-OjaQSxim-iOrM1E0Y=/host/0B-THWw7hibq5WDM3YjN5TGV1cW8/\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons Licence\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "header4-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0316-4896x3672-22.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Hélène Muylle",
+          "text": "GRAPHIC DESIGN",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1276-1-2246x2303-9-2000x2051-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1276-1-2246x2303-9.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1283-1-4128x2520-26-2000x1221-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1283-1-4128x2520-26.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/finished-cover-1-3996x3978-6-2000x1991-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finished-cover-1-3996x3978-6.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/10452861-10205906981422816-3771089745584287-o-679x960-96-679x960-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10452861-10205906981422816-3771089745584287-o-679x960-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1392-1-3057x4446-81-2000x2909-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1392-1-3057x4446-81.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/cover-2232x3117-44-2000x2793-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cover-2232x3117-44.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1394-1-3001x4458-45-2000x2971-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1394-1-3001x4458-45.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/poster-eind-6613x9605-67-2000x2905-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-eind-6613x9605-67.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/binnenpagina-2755x2030-27-2000x1474-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/binnenpagina-2755x2030-27.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/fotopagina-3021x2275-11-2000x1506-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotopagina-3021x2275-11.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1264-1-933x1285-64-933x1285-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1264-1-933x1285-64.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-12",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">PHOTOGRAPHY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">GRAPHIC DESIGN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">DRAWINGS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">OTHER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://df882bcb3429ab5d326407c67a828f3359c5f79d.googledrive.com/secure/AKsY0eVc8nHWYdUsWMKRE9MH5EoxpT4gUGMe65u4ih0GyCcy2fcfD_YNVv5qjtMnHww2vmjVWQUePgXEu32CEyAKxojDiTyyAx6T_UqTwIDbnKU3ZKphVJeDqUlZZ2uDLfgfAWESAIPaYaf-yQtLyTShcx3r7OxIBIf2syOgEwadUOZgaTBt-Gy_x6I0Gn673d3IemBL5WLDwB-nM81bKdCs3pNkCGSZ1hjGR_v9MK9-vamiCvTa2XmK9oxqvrnNreaOL57rzSVRPHTk9vg3FRfcEfxzCt_Nk7O3mMH6u0qUhwH4_QsGFYukJx9gLlpfsr-Lr3_WEE-SYsy33-S2pHbwwjvCxvkHrzKFgtMmGu9fkSgI5t36goLuSki5lI1SZBpf29kyMOAY2LwEM9CNyTV_ABf9Xff64WNfn3zdztDCIgPdeanPV3YBZERB-nD-X2mfyYfBfthtmDZNt99eM_8oJWmV1VZdgqzIO2X5XGyz40eGdWlBVSxnSo2jk_Znavw7C8U_n5oW8vVmi7xRAjHK578LePXWTy3PJMgq0l2xYcL1XmjV5fuw5eZYEkR_Zl0P7y60EFo8b5vC4NHcSLV7Ay99K3Y7h5lHd-OjaQSxim-iOrM1E0Y=/host/0B-THWw7hibq5WDM3YjN5TGV1cW8/\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons Licence\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "header4-14",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0316-4896x3672-22.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Hélène Muylle",
+          "text": "GRAPHIC DESIGN<br>drawings",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0783-3336x4448-94-2000x2667-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0783-3336x4448-94.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0784-3241x4321-36-2000x2666-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0784-3241x4321-36.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-17",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-16",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">PHOTOGRAPHY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">GRAPHIC DESIGN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">DRAWINGS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">OTHER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://df882bcb3429ab5d326407c67a828f3359c5f79d.googledrive.com/secure/AKsY0eVc8nHWYdUsWMKRE9MH5EoxpT4gUGMe65u4ih0GyCcy2fcfD_YNVv5qjtMnHww2vmjVWQUePgXEu32CEyAKxojDiTyyAx6T_UqTwIDbnKU3ZKphVJeDqUlZZ2uDLfgfAWESAIPaYaf-yQtLyTShcx3r7OxIBIf2syOgEwadUOZgaTBt-Gy_x6I0Gn673d3IemBL5WLDwB-nM81bKdCs3pNkCGSZ1hjGR_v9MK9-vamiCvTa2XmK9oxqvrnNreaOL57rzSVRPHTk9vg3FRfcEfxzCt_Nk7O3mMH6u0qUhwH4_QsGFYukJx9gLlpfsr-Lr3_WEE-SYsy33-S2pHbwwjvCxvkHrzKFgtMmGu9fkSgI5t36goLuSki5lI1SZBpf29kyMOAY2LwEM9CNyTV_ABf9Xff64WNfn3zdztDCIgPdeanPV3YBZERB-nD-X2mfyYfBfthtmDZNt99eM_8oJWmV1VZdgqzIO2X5XGyz40eGdWlBVSxnSo2jk_Znavw7C8U_n5oW8vVmi7xRAjHK578LePXWTy3PJMgq0l2xYcL1XmjV5fuw5eZYEkR_Zl0P7y60EFo8b5vC4NHcSLV7Ay99K3Y7h5lHd-OjaQSxim-iOrM1E0Y=/host/0B-THWw7hibq5WDM3YjN5TGV1cW8/\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons Licence\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "header4-18",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0316-4896x3672-22.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Hélène Muylle",
+          "text": "GRAPHIC DESIGN<br>other",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0735-1818x1818-87-1818x1818-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0735-1818x1818-87.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0031-2848x4288-25-2000x3011-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0031-2848x4288-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0736-2093x2093-51-2000x2000-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0736-2093x2093-51.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2013-12-02-om-20-579x573-46-579x573-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2013-12-02-om-20-579x573-46.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0005-1946x1965-42-1946x1965-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0005-1946x1965-42.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0040-1970x2842-64-1970x2842-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0040-1970x2842-64.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0048-1630x2445-70-1630x2445-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0048-1630x2445-70.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0051-1518x2088-46-1518x2088-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0051-1518x2088-46.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0052-1690x2477-59-1690x2477-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0052-1690x2477-59.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0054-1787x2582-0-1787x2582-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0054-1787x2582-0.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/39-helene-muylle-03-700x469-97-700x469-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/39-helene-muylle-03-700x469-97.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/39-helene-muylle-01-700x469-94-700x469-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/39-helene-muylle-01-700x469-94.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/39-helene-muylle-04-700x469-50-700x469-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/39-helene-muylle-04-700x469-50.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-21",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-20",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">PHOTOGRAPHY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">GRAPHIC DESIGN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">DRAWINGS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">OTHER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://df882bcb3429ab5d326407c67a828f3359c5f79d.googledrive.com/secure/AKsY0eVc8nHWYdUsWMKRE9MH5EoxpT4gUGMe65u4ih0GyCcy2fcfD_YNVv5qjtMnHww2vmjVWQUePgXEu32CEyAKxojDiTyyAx6T_UqTwIDbnKU3ZKphVJeDqUlZZ2uDLfgfAWESAIPaYaf-yQtLyTShcx3r7OxIBIf2syOgEwadUOZgaTBt-Gy_x6I0Gn673d3IemBL5WLDwB-nM81bKdCs3pNkCGSZ1hjGR_v9MK9-vamiCvTa2XmK9oxqvrnNreaOL57rzSVRPHTk9vg3FRfcEfxzCt_Nk7O3mMH6u0qUhwH4_QsGFYukJx9gLlpfsr-Lr3_WEE-SYsy33-S2pHbwwjvCxvkHrzKFgtMmGu9fkSgI5t36goLuSki5lI1SZBpf29kyMOAY2LwEM9CNyTV_ABf9Xff64WNfn3zdztDCIgPdeanPV3YBZERB-nD-X2mfyYfBfthtmDZNt99eM_8oJWmV1VZdgqzIO2X5XGyz40eGdWlBVSxnSo2jk_Znavw7C8U_n5oW8vVmi7xRAjHK578LePXWTy3PJMgq0l2xYcL1XmjV5fuw5eZYEkR_Zl0P7y60EFo8b5vC4NHcSLV7Ay99K3Y7h5lHd-OjaQSxim-iOrM1E0Y=/host/0B-THWw7hibq5WDM3YjN5TGV1cW8/\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons Licence\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br>"
+        }
+      ]
+    }
+  }
+}
